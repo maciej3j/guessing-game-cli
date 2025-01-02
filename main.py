@@ -1,7 +1,7 @@
 import random
 import time
 import json
-from tabulate import tabulate
+
 print('''Welcome to the Number Guessing Game!
 I'm thinking of a number between 1 and 100.
 You have 5 chances to guess the correct number.
